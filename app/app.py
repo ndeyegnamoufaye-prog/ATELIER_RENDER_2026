@@ -18,6 +18,6 @@ if __name__ == "__main__":
 def info():
     return {
         "app": "Flask Render",
-        "student": "VOTRE_NOM",
+        "student": "Gnamou_Faye",
         "version": "v1"
     }
